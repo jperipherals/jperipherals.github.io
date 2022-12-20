@@ -1,0 +1,11 @@
+
+table			=x-360
+tecspec			=x-400
+Price 			=x-90
+
+References
+ref mt			=x(default)
+spritelink mt	=x+59
+copy mt			=x+270
+desc mt			=x+70
+
